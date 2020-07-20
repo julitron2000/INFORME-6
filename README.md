@@ -78,18 +78,18 @@ E. Protoboard
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
 
-|   RL       | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teóricamente (W)| 
+|   RL       | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (mW) | Potencia calculada teóricamente (mW)| 
 |   ---      |       ---             |      ---           |                    ---                   |              ---                | 
-|     220    |                       |                    |                                          |                                 |  
-|     470    |                       |                    |                                          |                                 |
-|     680    |                       |                    |                                          |                                 |
-|     820    |                       |                    |                                          |                                 | 
-|     1000   |                       |                    |                                          |                                 |
-|     1500   |                       |                    |                                          |                                 | 
-|     1800   |                       |                    |                                          |                                 | 
-|     2200   |                       |                    |                                          |                                 |
-|     3900   |                       |                    |                                          |                                 |
-|     4700   |                       |                    |                                          |                                 |
+|     220    |        10.6               |     2.33               |                                          |       6.137                          |  
+|     470    |        8.98               |     4.22               |                                          |       9.470                          |
+|     680    |        7.98               |     5.43               |                                          |       10.82                          |
+|     820    |        7.42               |     6.09               |                                          |       11.30                          | 
+|     1000   |        6.82               |     6.82               |                                          |       11.62                          |
+|     1500   |        5.55               |     8.33               |                                          |       11.56                          | 
+|     1800   |        5.00               |     9.00               |                                          |       11.25                          | 
+|     2200   |        4.41               |     9.71               |                                          |       10.70                          |
+|     3900   |        2.94               |     11.5               |                                          |       8.435                          |
+|     4700   |        2.54               |     11.9               |                                          |       7.595                          |
 
 
 -¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
