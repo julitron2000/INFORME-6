@@ -6,7 +6,7 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de nodos , por lo que conocer y saber utilizar este método debe ser un requisito necesario e indispensable para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
+En el diseño de circuitos, hay ocasiones en que se busca obtener la mayor potencia que se pueda suministrar a una carga especifica, por ello es necesario conocer el teorema de la maxia transferencia de potencia, para ello es necesario conocer previamente los teoremas de Thevenin y Norton.
 
 ## 2. OBJETIVOS
 
@@ -26,7 +26,7 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 ## 3. MARCO TEÓRICO 
 
-El teorema de la maxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia maxima se calcula utilizando la siguiente fórmula
+El teorema de la máxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia máxima se calcula utilizando la siguiente fórmula
 
 ![image](https://user-images.githubusercontent.com/64505672/87900613-8191d500-ca1a-11ea-9635-93fb1671e1ae.png)
 
@@ -39,7 +39,7 @@ El circuito equivalente de Thevenin es el siguiente.
 
 Con respecto a este tema Sadiku (2004) afirma "La máxima potencia se transfiere a la carga cuando la resistencia de la carga es igual a la resistencia de Thevenin vista desde la carga (RL = RTh)."
 
-Graficamente se puede observar que efectivamente la potencia maxima se consigue cuando Rh=RL
+Graficamente se puede observar que efectivamente la potencia máxima se consigue cuando Rh=RL
 
 ![image](https://user-images.githubusercontent.com/64505672/87901146-deda5600-ca1b-11ea-8f4c-22a40d6adc8f.png)
 
