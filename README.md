@@ -6,7 +6,7 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-En el diseño de circuitos, hay ocasiones en que se busca obtener la mayor potencia que se pueda suministrar a una carga especifica, por ello es necesario conocer el teorema de la maxia transferencia de potencia, para ello es necesario conocer previamente los teoremas de Thevenin y Norton.
+En el diseño de circuitos, hay ocasiones en que se busca obtener la mayor potencia que se pueda suministrar a una carga especifica, por ello es necesario conocer el teorema de la máxima transferencia de potencia que, esto a su vez requiere un previo conocimiento del teorema de Thevenin.
 
 ## 2. OBJETIVOS
 
