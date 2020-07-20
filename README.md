@@ -44,61 +44,33 @@ Graficamente se puede observar que efectivamente la potencia máxima se consigue
 ![image](https://user-images.githubusercontent.com/64505672/87901146-deda5600-ca1b-11ea-8f4c-22a40d6adc8f.png)
 
 ## 4. DIAGRAMAS
-Del circuito base:
 
-![Circuito](https://user-images.githubusercontent.com/66037763/84849909-0785bf00-b01c-11ea-854a-a0eaf524f16f.png)
-
-
-Se observan las conecciones y se identifican los nodos a los que se debe hacer el respectivo análisis:
-
-
-![CircuitosNodos](https://user-images.githubusercontent.com/66037763/84850917-8f6cc880-b01e-11ea-9627-a9fe10551303.png)
-
-
-Los nodos encerrados en rojo son donde tomará lugar el análisis de nodos. El voltaje que entra a cada uno de estos, está representado por las flechas rojas, de igual manera el voltaje saliente que tienen dirección vertical y con sentido hacia tierra. 
 
 ## 5. LISTA DE COMPONENTES
-A. 2 Fuentes de Voltaje de C.D. (12 y 8 V. respectivamente)
+A. Fuente de Voltaje de C.D. (15 v)
 
 
 ![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
 
 
-B. Multímetros Digitales (los que se encuentre necesarios)
+B. Multímetros Digitales 
 
 ![chrome_1E7H2m0GOE](https://user-images.githubusercontent.com/66037763/84236069-a6f6ff00-aabc-11ea-90f8-49d128847e17.png)
 
 
-C. Resistor de 1.8 kΩ
+C. Resistor de 1.2 kΩ
 
 
 ![chrome_H59RekD0Sn](https://user-images.githubusercontent.com/66037763/84236097-b4ac8480-aabc-11ea-88e9-0930cd8a6151.png)
 
 
-D. Resistor de 470 Ω
+D. Potenciómetro
 
 
-![chrome_nYj42XTcAA](https://user-images.githubusercontent.com/66037763/84236121-bc6c2900-aabc-11ea-9052-20d1e126c649.png)
+![chrome_xygSoFbiG6](https://user-images.githubusercontent.com/66037763/87902277-cc155080-ca1e-11ea-9a3c-274ab920ae10.png)
 
 
-E. Resistor de 1.5 kΩ
-
-
-![chrome_jPVmQCB5dn](https://user-images.githubusercontent.com/66037763/84236149-cbeb7200-aabc-11ea-96d9-4b01e8f8ef81.png)
-
-
-F. Resistor de 3.9 kΩ
-
-
-![chrome_RgP3H68Ui2](https://user-images.githubusercontent.com/66037763/84236162-d60d7080-aabc-11ea-864d-536485900f86.png)
-
-
-G. Resistor de 2.2 kΩ
-
-![chrome_u6waqAZiNN](https://user-images.githubusercontent.com/66037763/84236192-e0c80580-aabc-11ea-9767-487481f78259.png)
-
-
-H. Protoboard
+E. Protoboard
 
 ![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
 
