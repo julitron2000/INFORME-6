@@ -131,11 +131,14 @@ Finalmente, el circuito puesto a prueba:
 ## 8.CONCLUSIONES
 -Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  11.62 mW
 
--
-
 -se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
-## 9. BIBLIOGRAFÍA
+## 9. RECOMENDACIONES
+- Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta
+
+- Utilizar las cifras significativas para minimizar el error experimental.
+
+## 10. BIBLIOGRAFÍA
 
 -M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
 
