@@ -1,4 +1,4 @@
-# Informe N°6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE ENERGÍA
+# Informe N°6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 
 AUTORES: DAVID HINOJOSA,
          JAVIER DELGADO,
@@ -6,12 +6,22 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de nodos , por lo que conocer y saber utilizar este método debe ser un requisito necesario e indispensable para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
+En el diseño de circuitos, hay ocasiones en que se busca obtener la mayor potencia que se pueda suministrar a una carga especifica, por ello es necesario conocer el teorema de la maxia transferencia de potencia, para ello es necesario conocer previamente los teoremas de Thevenin y Norton.
 
 ## 2. OBJETIVOS
--Comprobar experimentalmente el analisis de nodos
--Medir y registrar el voltaje en los nodos.
--Determinar el porcentaje de error entre el valor teorico y experimental.
+### GENERAL
+
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+
+### ESPECÍFICOS
+
+-Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio experimentalmente.
+
+-Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio teoricamente.
+
+-Determinar la potencia máxima que se pueda obtener y la resistencia con la que se obtiene.
+
+-Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 ![image](https://user-images.githubusercontent.com/64505672/84841818-10b96080-b009-11ea-8c5f-862ff4ee8891.png)
