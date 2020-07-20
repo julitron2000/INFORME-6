@@ -103,18 +103,20 @@ H. Protoboard
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
 
-Después de los respectivos cálculos y mediciones prácticas, se obtuvieron los resultados de cada uno de los dos nodos por analizar y se los ordenó dentro de la siguiente tabla:
 
-![WINWORD_6wRyIqYdmd](https://user-images.githubusercontent.com/66037763/84852156-b2e54280-b021-11ea-9b85-0f531e1349e8.png)
+|   RL       | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teóricamente | 
+|   ---      |       ---             |      ---           |                    ---                   |              ---                | 
+|     220    |                       |                    |                                          |                                 |  
+|     470    |                       |                    |                                          |                                 |
+|     680    |                       |                    |                                          |                                 |
+|     820    |                       |                    |                                          |                                 | 
+|     1000   |                       |                    |                                          |                                 |
+|     1500   |                       |                    |                                          |                                 | 
+|     1800   |                       |                    |                                          |                                 | 
+|     2200   |                       |                    |                                          |                                 |
+|     3900   |                       |                    |                                          |                                 |
+|     4700   |                       |                    |                                          |                                 |
 
-
-Una vez obtenidos los datos, se procede a calcular el porcentaje de error de los resultados obtenidos experimentalmente, comparados con los obtenidos analíticamente: 
-
-
-![WINWORD_pXoChW7GaK](https://user-images.githubusercontent.com/66037763/84852543-c47b1a00-b022-11ea-9332-b95da92dea84.png)
-
-
-![WINWORD_M4pKwobPV9](https://user-images.githubusercontent.com/66037763/84852656-04420180-b023-11ea-95a4-370f6b5923a3.png)
 
 
 Finalmente, el circuito puesto a prueba: 
