@@ -1,4 +1,4 @@
-# Informe N°6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
+# Informe N°6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE ENERGÍA
 
 AUTORES: DAVID HINOJOSA,
          JAVIER DELGADO,
@@ -6,22 +6,12 @@ AUTORES: DAVID HINOJOSA,
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 
-En el diseño de circuitos, hay ocasiones en que se busca obtener la mayor potencia que se pueda suministrar a una carga especifica, por ello es necesario conocer el teorema de la maxia transferencia de potencia, para ello es necesario conocer previamente los teoremas de Thevenin y Norton.
+Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de nodos , por lo que conocer y saber utilizar este método debe ser un requisito necesario e indispensable para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
 
 ## 2. OBJETIVOS
-### GENERAL
-
-Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
-
-### ESPECÍFICOS
-
--Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio experimentalmente.
-
--Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio teoricamente.
-
--Determinar la potencia máxima que se pueda obtener y la resistencia con la que se obtiene.
-
--Determinar el error experimental.
+-Comprobar experimentalmente el analisis de nodos
+-Medir y registrar el voltaje en los nodos.
+-Determinar el porcentaje de error entre el valor teorico y experimental.
 
 ## 3. MARCO TEÓRICO 
 ![image](https://user-images.githubusercontent.com/64505672/84841818-10b96080-b009-11ea-8c5f-862ff4ee8891.png)
@@ -122,13 +112,13 @@ Finalmente, el circuito puesto a prueba:
 
 
 ## 7. CRONOGRAMA
-![0006](https://user-images.githubusercontent.com/66037557/84841262-70167100-b007-11ea-9910-d1d3f00f408a.png)
+![0067](https://user-images.githubusercontent.com/66037557/87900011-a2592b00-ca18-11ea-9ada-e819dd2c8857.png)
 
 
 ## 8.CONCLUSIONES
--Se concluyó gracias al análisis nodos, el valor analítico de los voltajes en el nodo1=2.82028 y nodo2=4.80195  .
+-Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  11.62 mW
 
--se logró comprobar que tanto los voltajes calculados en los respectivos nodos como los medidos poseen un bajo grado de error, siendo el error en el nodo1=0.00993% y en el nodo2=0.042%.
+-
 
 -se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
