@@ -135,14 +135,7 @@ Finalmente, el circuito puesto a prueba:
 
 -se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
-## 9.RECOMENDACIONES
--Tener cuidado al tomar la medida de caída de tensión en nuestros nodos, podemos obtener valores erróneos.
-
--Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
-
--Utilizar la mayor cantidad de decimales posibles en el cálculo, para sacar un grado de error mas significativo.
-
-## 10. BIBLIOGRAFÍA
+## 9. BIBLIOGRAFÍA
 
 -M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
 
