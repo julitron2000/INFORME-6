@@ -25,11 +25,6 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 -Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
-![image](https://user-images.githubusercontent.com/64505672/84841818-10b96080-b009-11ea-8c5f-862ff4ee8891.png)
-
-Un nodo es el punto en donde se conectan diferentes elementos en un circuito, en el cual se puede medir el voltaje que cae en este punto, basándonos en la ley de corrientes Kirchhoff y la ley de Ohm.
-### Método de Nodos
-
 
 El teorema de la maxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia maxima se calcula utilizando la siguiente fórmula
 
