@@ -30,16 +30,23 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 Un nodo es el punto en donde se conectan diferentes elementos en un circuito, en el cual se puede medir el voltaje que cae en este punto, basándonos en la ley de corrientes Kirchhoff y la ley de Ohm.
 ### Método de Nodos
 
-![image](https://user-images.githubusercontent.com/64505672/84841694-ac969c80-b008-11ea-88e9-abf614eb50b4.png)
 
-El método de Nodos es un método utilizado para resolver cualquier tipo de circuitos.
+El teorema de la maxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia maxima se calcula utilizando la siguiente fórmula
 
-![image](https://user-images.githubusercontent.com/64505672/84841751-db147780-b008-11ea-9d40-00c5b02e7e4f.png)
+![image](https://user-images.githubusercontent.com/64505672/87900613-8191d500-ca1a-11ea-9635-93fb1671e1ae.png)
 
-Los pasos para determinar la caida de voltaje en un nodo son:
-1. Determinar las corrientes que entran y salen en cada nodo.
-2. Aplique la LCK en cada uno de los n nodos. Use la ley de Ohm para expresar las corrientes en términos de los voltaje que caen en los elementos, considerando que la corriente sera igual a la diferencia de voltaje sobre la resistencia y considerando que el voltaje en tieera es cero.
-3. Resuelva las n ecuaciones simultáneas resultantes para obtener el voltaje en cada nodo.
+Donde RL es la resistencia que varia su carga, RTh es la resistencia de Thevenin y VTH es el voltaje de Thevenin.
+
+El circuito equivalente de Thevenin es el siguiente.
+
+![image](https://user-images.githubusercontent.com/64505672/87901055-9d49ab00-ca1b-11ea-81b1-25c03cac7c4f.png)
+
+
+Con respecto a este tema Sadiku (2004) afirma "La máxima potencia se transfiere a la carga cuando la resistencia de la carga es igual a la resistencia de Thevenin vista desde la carga (RL = RTh)."
+
+Graficamente se puede observar que efectivamente la potencia maxima se consigue cuando Rh=RL
+
+![image](https://user-images.githubusercontent.com/64505672/87901146-deda5600-ca1b-11ea-8f4c-22a40d6adc8f.png)
 
 ## 4. DIAGRAMAS
 Del circuito base:
