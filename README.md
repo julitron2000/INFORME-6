@@ -105,15 +105,16 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 
 ## 8.CONCLUSIONES
-- Se  comprobó el teorema de potencia máxima transferida que nos dice que la máxima potencia se transfiere a la carga cuando la resistencia de la carga es igual a la resistencia de Thevenin vista desde la carga. En este caso la resistencia que presento la potencia mas cercana a 1200 ohms es la resistencia  1000 ohm, a la que se le transfiere una potencia de  46.4876 mW
+- Se  comprobó el teorema de potencia máxima transferida que nos dice que la máxima potencia se transfiere a la carga cuando la resistencia de la carga es igual a la resistencia de Thevenin vista desde la carga. En este caso la resistencia que presento la potencia mas cercana a 1200 ohms es la resistencia  1000 ohm, a la que se le transfiere una potencia de  46.4876 mW.
 
-- Se comprobó que el error es de .
+- Se comprobó que el  experimento se cumple con un error experimental de la potencia máxima transferida es 0.048%, la razon por la que este valor es tan bajo se debe a que los simuladores poseen tolerancias mas ajustadas, a las que se presentan en la vida real. 
 
--
-## 9. RECOMENDACIONES
+-Se comprobó que las resistencia que se alejan en valor a la resistencia de thevenin poseen las potencias mas bajas por ejemplos la resitencia mas pequeña de 220ohm se le transfiere una potencia de 24.5487 mW, y a la resistencia mas alta de 4700 ohm se le transfiriere una potencia de 30.3792 mW.
+
+##9. RECOMENDACIONES
 - Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta.
 
-- Utilizar las cifras significativas para minimizar el error experimental.
+- Considerar mas cifras significativas para hallar un error experimental mas preciso.
 
 - Para hallar la potencia experimental en cada resistencia primero debemos hallar el voltaje y la resistencia en el circuito, o la intensidad y luego utilizar la formula de potencia es igual a intensidad al cuadrado por la resistencia.
 
