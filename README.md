@@ -115,7 +115,7 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 - Utilizar las cifras significativas para minimizar el error experimental.
 
--Para hallar la potencia experimental en cada resistencia primero debemos hallar el voltaje y la resistencia en el circuito, o la intensidad y luego utilizar la formula de potencia es igual a intensidad al cuadrado por la resistencia.
+- Para hallar la potencia experimental en cada resistencia primero debemos hallar el voltaje y la resistencia en el circuito, o la intensidad y luego utilizar la formula de potencia es igual a intensidad al cuadrado por la resistencia.
 
 ## 10. BIBLIOGRAFÍA
 
