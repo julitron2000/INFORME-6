@@ -97,12 +97,17 @@ E. Protoboard
 
 
 - ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
+
 Sí, ya que experimentalmente encontramos que la máxima transferencia de potencia se da cuando la resistencia es de 1000 ohm, y este a su vez es el más cercano a la resistencia de Thévenin = 1200 ohm, lo cual se comprueba haciendo el respectivo cálculo que es el valor con la máxima transferencia de potencia teórica.
+
 -¿Cuál fue la potencia máxima en RL? 
-11. 62 mW
+46.51 mW
  
  - ¿Para qué valor de RL se obtiene la MTP?
  1000 Ω
+
+![image](https://user-images.githubusercontent.com/66037763/88138593-9b1a5480-cbb3-11ea-863f-353b7b35dba3.png)
+
 
 ## 7. CRONOGRAMA
 ![0077](https://user-images.githubusercontent.com/66037557/88135847-9bafec80-cbad-11ea-8ab6-2c567083c35e.png)
