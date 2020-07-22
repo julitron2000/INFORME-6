@@ -105,7 +105,7 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 
 ## 8.CONCLUSIONES
-- Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  11.62 mW
+- Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  46.4876 mW
 
 - Se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
