@@ -121,6 +121,6 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 ## 10. BIBLIOGRAFÍA
 
--M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
+- M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
 
--Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
+- Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
