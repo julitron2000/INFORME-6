@@ -26,7 +26,7 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 ## 3. MARCO TEÓRICO 
 
-El teorema de la máxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia máxima se calcula utilizando la siguiente fórmula
+El teorema de la máxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia máxima se calcula utilizando la siguiente fórmula.
 
 ![image](https://user-images.githubusercontent.com/64505672/87900613-8191d500-ca1a-11ea-9635-93fb1671e1ae.png)
 
@@ -45,6 +45,11 @@ Graficamente se puede observar que efectivamente la potencia máxima se consigue
 
 ## 4. DIAGRAMAS
 
+En diagrama utilizado en esta practica es la siguiente:
+
+![cric](https://user-images.githubusercontent.com/64505672/88133948-f6931500-cba8-11ea-822a-1d88686627f6.PNG)
+ 
+Se calcula el voltaje de RL, la corriente de la malla y la potencia RL con cada una de las resistencias proporcionadas en la guía. 
 
 ## 5. LISTA DE COMPONENTES
 A. Fuente de Voltaje de C.D. (15 v)
