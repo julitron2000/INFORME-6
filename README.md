@@ -44,7 +44,11 @@ Graficamente se puede observar que efectivamente la potencia máxima se consigue
 ![image](https://user-images.githubusercontent.com/64505672/87901146-deda5600-ca1b-11ea-8f4c-22a40d6adc8f.png)
 
 ## 4. DIAGRAMAS
+Eldiagrama utilizado en esta practica es la siguiente:
 
+![cric](https://user-images.githubusercontent.com/64505672/88133948-f6931500-cba8-11ea-822a-1d88686627f6.PNG)
+
+Se calcula el voltaje de RL, la corriente de la malla y la potencia RL con cada una de las resistencias proporcionadas en la guía. 
 
 ## 5. LISTA DE COMPONENTES
 A. Fuente de Voltaje de C.D. (15 v)
