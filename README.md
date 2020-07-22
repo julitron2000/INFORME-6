@@ -28,6 +28,10 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 El teorema de la máxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia máxima se calcula utilizando la siguiente fórmula
 
+![image](https://user-images.githubusercontent.com/64505672/88216655-02bbb880-cc23-11ea-8253-ad0fe6474a44.png)
+
+En el caso en que varia la resistencia RL, la potencia se calcula con la siguiente fórmula
+
 ![image](https://user-images.githubusercontent.com/64505672/87900613-8191d500-ca1a-11ea-9635-93fb1671e1ae.png)
 
 Donde RL es la resistencia que varia su carga, RTh es la resistencia de Thevenin y VTH es el voltaje de Thevenin.
