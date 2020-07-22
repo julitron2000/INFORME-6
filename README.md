@@ -26,7 +26,7 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 ## 3. MARCO TEÓRICO 
 
-El teorema de la máxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia máxima se calcula utilizando la siguiente fórmula.
+El teorema de la máxima transferencia es utilizado para determinar la mayor potencia que se puede suminstrar a una carga, por ello es importante conocer previamente el equivalente de Thevenin de un circuito. Si tenemos el circuito equivalente de Thevenin podemos decir que la potencia máxima se calcula utilizando la siguiente fórmula
 
 ![image](https://user-images.githubusercontent.com/64505672/87900613-8191d500-ca1a-11ea-9635-93fb1671e1ae.png)
 
@@ -45,11 +45,6 @@ Graficamente se puede observar que efectivamente la potencia máxima se consigue
 
 ## 4. DIAGRAMAS
 
-En diagrama utilizado en esta práctica es la siguiente:
-
-![cric](https://user-images.githubusercontent.com/64505672/88133948-f6931500-cba8-11ea-822a-1d88686627f6.PNG)
- 
-Se calcula el voltaje de RL, la corriente de la malla y la potencia RL con cada una de las resistencias proporcionadas en la guía. 
 
 ## 5. LISTA DE COMPONENTES
 A. Fuente de Voltaje de C.D. (15 v)
@@ -110,14 +105,17 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 
 ## 8.CONCLUSIONES
-- Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  46.4876 mW
+- Se comprobó que la potencia máxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  46.4876 mW
 
-- Se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
+- Se comprobó que el error es de .
 
+-
 ## 9. RECOMENDACIONES
 - Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta.
 
 - Utilizar las cifras significativas para minimizar el error experimental.
+
+-Para hallar la potencia experimental en cada resistencia primero debemos hallar el voltaje y la resistencia en el circuito, o la intensidad y luego utilizar la formula de potencia es igual a intensidad al cuadrado por la resistencia.
 
 ## 10. BIBLIOGRAFÍA
 
