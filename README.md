@@ -45,7 +45,7 @@ Graficamente se puede observar que efectivamente la potencia máxima se consigue
 
 ## 4. DIAGRAMAS
 
-En diagrama utilizado en esta practica es la siguiente:
+En diagrama utilizado en esta práctica es la siguiente:
 
 ![cric](https://user-images.githubusercontent.com/64505672/88133948-f6931500-cba8-11ea-822a-1d88686627f6.PNG)
  
