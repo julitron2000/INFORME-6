@@ -106,7 +106,7 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
  - ¿Para qué valor de RL se obtiene la MTP?
  1000 Ω
 
-![image](https://user-images.githubusercontent.com/66037763/88138593-9b1a5480-cbb3-11ea-863f-353b7b35dba3.png)
+![image][0.5](https://user-images.githubusercontent.com/66037763/88138593-9b1a5480-cbb3-11ea-863f-353b7b35dba3.png)
 
 
 ## 7. CRONOGRAMA
