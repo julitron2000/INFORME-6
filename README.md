@@ -101,7 +101,8 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
  1000 Ω
 
 ## 7. CRONOGRAMA
-![0067](https://user-images.githubusercontent.com/66037557/87900011-a2592b00-ca18-11ea-9ada-e819dd2c8857.png)
+![0077](https://user-images.githubusercontent.com/66037557/88135847-9bafec80-cbad-11ea-8ab6-2c567083c35e.png)
+
 
 
 ## 8.CONCLUSIONES
