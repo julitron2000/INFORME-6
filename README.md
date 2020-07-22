@@ -105,7 +105,7 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 
 ## 8.CONCLUSIONES
-- Se comprobó que la potencia máxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  46.4876 mW
+- Se  comprobó el teorema de potencia máxima transferida que nos dice que la máxima potencia se transfiere a la carga cuando la resistencia de la carga es igual a la resistencia de Thevenin vista desde la carga. En este caso la resistencia que presento la potencia mas cercana a 1200 ohms es la resistencia  1000 ohm, a la que se le transfiere una potencia de  46.4876 mW
 
 - Se comprobó que el error es de .
 
