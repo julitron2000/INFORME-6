@@ -109,7 +109,7 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 - Se comprobó que el  experimento se cumple con un error experimental de la potencia máxima transferida es 0.048%, la razon por la que este valor es tan bajo se debe a que los simuladores poseen tolerancias mas ajustadas, a las que se presentan en la vida real. 
 
--Se comprobó que las resistencia que se alejan en valor a la resistencia de thevenin poseen las potencias mas bajas por ejemplos la resitencia mas pequeña de 220ohm se le transfiere una potencia de 24.5487 mW, y a la resistencia mas alta de 4700 ohm se le transfiriere una potencia de 30.3792 mW.
+- Se comprobó que las resistencia que se alejan en valor a la resistencia de thevenin poseen las potencias mas bajas por ejemplos la resitencia mas pequeña de 220ohm se le transfiere una potencia de 24.5487 mW, y a la resistencia mas alta de 4700 ohm se le transfiriere una potencia de 30.3792 mW.
 
 ## 9. RECOMENDACIONES
 - Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta.
