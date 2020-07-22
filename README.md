@@ -110,7 +110,7 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 - Se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
 ## 9. RECOMENDACIONES
-- Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta
+- Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta.
 
 - Utilizar las cifras significativas para minimizar el error experimental.
 
