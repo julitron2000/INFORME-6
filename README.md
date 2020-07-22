@@ -110,8 +110,31 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 ![image](https://user-images.githubusercontent.com/66037763/88138593-9b1a5480-cbb3-11ea-863f-353b7b35dba3.png)
 
 
+![image](https://user-images.githubusercontent.com/66037763/88138802-05cb9000-cbb4-11ea-832b-f1c8c2b21076.png)
 
 
+![image](https://user-images.githubusercontent.com/66037763/88138822-11b75200-cbb4-11ea-90b0-b988835ca9d1.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88138855-209e0480-cbb4-11ea-945b-a31deb00998a.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88138881-2e538a00-cbb4-11ea-8b0a-22fe520a08e8.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88138907-41fef080-cbb4-11ea-820b-7041c7ef4567.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88138928-4deab280-cbb4-11ea-9ba5-2d9cc3900368.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88138967-61961900-cbb4-11ea-8bde-938d243a85cd.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88138991-6e1a7180-cbb4-11ea-9f9f-bb3a2179a3cc.png)
+
+
+![image](https://user-images.githubusercontent.com/66037763/88139009-77a3d980-cbb4-11ea-9946-73e211ad5d6e.png)
 
 
 ## 7. CRONOGRAMA
