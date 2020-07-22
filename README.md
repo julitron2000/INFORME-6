@@ -30,7 +30,7 @@ El teorema de la máxima transferencia es utilizado para determinar la mayor pot
 
 ![image](https://user-images.githubusercontent.com/64505672/88216655-02bbb880-cc23-11ea-8253-ad0fe6474a44.png)
 
-En el caso en que varia la resistencia RL, la potencia se calcula con la siguiente fórmula
+En el caso en que varía la resistencia RL, la potencia se calcula con la siguiente fórmula
 
 ![image](https://user-images.githubusercontent.com/64505672/87900613-8191d500-ca1a-11ea-9635-93fb1671e1ae.png)
 
