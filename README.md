@@ -101,9 +101,11 @@ E. Protoboard
 Sí, ya que experimentalmente encontramos que la máxima transferencia de potencia se da cuando la resistencia es de 1000 ohm, y este a su vez es el más cercano a la resistencia de Thévenin = 1200 ohm, lo cual se comprueba haciendo el respectivo cálculo que es el valor con la máxima transferencia de potencia teórica.
 
 -¿Cuál fue la potencia máxima en RL? 
+
 46.51 mW
  
  - ¿Para qué valor de RL se obtiene la MTP?
+ 
  1000 Ω
 
 
