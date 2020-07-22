@@ -16,13 +16,13 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
 
 ### ESPECÍFICOS
 
--Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio experimentalmente.
+- Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio experimentalmente.
 
--Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio teoricamente.
+- Determinar la potencia transferida a cada resistencia propuesta en la guía de laboratorio teoricamente.
 
--Determinar la potencia máxima que se pueda obtener y la resistencia con la que se obtiene.
+- Determinar la potencia máxima que se pueda obtener y la resistencia con la que se obtiene.
 
--Determinar el error experimental.
+- Determinar el error experimental.
 
 ## 3. MARCO TEÓRICO 
 
@@ -92,12 +92,12 @@ E. Protoboard
 |     4700   |        2.54               |     11.9               |                                          |       7.595                          |
 
 
--¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
+- ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? 
 Sí, ya que experimentalmente encontramos que la máxima transferencia de potencia se da cuando la resistencia es de 1000 ohm, y este a su vez es el más cercano a la resistencia de Thévenin = 1200 ohm, lo cual se comprueba haciendo el respectivo cálculo que es el valor con la máxima transferencia de potencia teórica.
 -¿Cuál fue la potencia máxima en RL? 
 11. 62 mW
  
- -¿Para qué valor de RL se obtiene la MTP?
+ - ¿Para qué valor de RL se obtiene la MTP?
  1000 Ω
 
 ## 7. CRONOGRAMA
@@ -105,9 +105,9 @@ Sí, ya que experimentalmente encontramos que la máxima transferencia de potenc
 
 
 ## 8.CONCLUSIONES
--Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  11.62 mW
+- Se comprobó que la potencia maxima es la mas cercana a la resitencia de 1200 ohms, en este caso la de 1000 ohm que nos entrega una potencia de  11.62 mW
 
--se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
+- Se concluye que la razón por la que el error es muy pequeño se debe a que el simulador posee una incertidumbre casi nula, a diferencia de la vida real en la que la que las tolerancias de nuestras resistencias pueden variar.
 
 ## 9. RECOMENDACIONES
 - Si usamos un simulador podemos utilizar un potenciometro ya que podemos variar la resistencia de forma exacta
